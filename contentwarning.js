@@ -233,7 +233,7 @@
       link: null,
       target: '_self',
       container: null, // selector
-      theme: 'light-inline',
+      theme: 'light-bottom',
       domain: null, // default to current domain.
       path: '/', 
       expiryDays: 365,

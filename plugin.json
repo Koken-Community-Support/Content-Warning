@@ -1,11 +1,11 @@
 {
 	"name": "Content Warning",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Inform your visitors that site contains mature content",
-	"demo": "http://varoystrand.se/sidor/content-warning-for-koken/",
+	"demo": "http://kokensupport.com/demo/",
 	"author": {
 		"name": "Bjarne Varoystrand",
-		"link": "http://varoystrand.se/"
+		"link": "http://varoystrand.se/sidor/content-warning-for-koken/"
 	},
 	"data": {
 		"contentwarning_message": {
