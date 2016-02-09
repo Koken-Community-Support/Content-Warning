@@ -5,10 +5,10 @@ A Koken plugin to inform your visitors that you are having explicit content.
 Content Warning is a lightweight JavaScript plugin for alerting users about explicit content on you site.
 
 ## Documentation
-http://varoystrand.se/sidor/content warning-for-koken/
+http://varoystrand.se/sidor/content-warning-for-koken/
 
 ## Support
-http://kokensupport.varoystrand.se/viewtopic.php?f=17&t=38
+http://kokensupport.varoystrand.se/viewtopic.php?f=17&t=331&p=1423#p1423
 
 ## Contributing
 Feel free to improve the plugin and send me a pull request.
