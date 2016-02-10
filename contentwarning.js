@@ -16,9 +16,6 @@
   // Name of cookie to be set when dismissed
   var DISMISSED_COOKIE = 'contentwarning_dismissed';
 
-  // The path to built in themes (s3 bucket)
-  //var THEME_BUCKET_PATH = '//s3.amazonaws.com/cc.silktide.com/';
-
   // No point going further if they've already dismissed.
  if (document.cookie.indexOf(DISMISSED_COOKIE) > -1) {
      return;
@@ -290,11 +287,6 @@
     loadTheme: function (callback) {
       var theme = this.options.theme;
 
-      // If theme is specified by name
-/*      if (theme.indexOf('.css') === -1) {
-        theme = THEME_BUCKET_PATH + theme + '.css';
-      }
-*/
       var link = document.createElement('link');
       link.rel = 'stylesheet';
       link.type = 'text/css';
